@@ -1,0 +1,105 @@
+
+body{
+	width: 100%;
+	margin: 0 auto;
+}
+ul {
+	padding: 0px!important;
+}
+
+.menu-principal{
+	background-color: #252323;
+	height: 60px;
+	width: 100%;
+	padding: 0px;
+}
+
+main{
+	margin: 0 auto;
+	width: 980px;
+	position: relative;
+
+}
+
+.logo{
+	height: 60px;
+	width: 30%;
+	float: left;
+
+}
+
+.spotify{
+	height: 60px;
+	width: 120px;
+
+	
+}
+
+.res-redes-sociais{
+	height: 30px;
+
+	
+}
+
+.redes-sociais ul li {
+	display: inline-block;
+
+}
+
+.redes-sociais{
+	float: right;
+}
+
+.header2{
+	background-color: #ffffff;
+	width: 980px;
+	margin: 0 auto;
+	padding: 16px;
+	
+}
+
+.menu-url{
+	border-bottom: 3px solid #efefef;
+	height: 80px;
+}
+
+.menu ul li{
+	display: inline-block;
+	color: #8b8b8b8b;
+	margin-left: 16px;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: #8b8b8b8b;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.menu{
+	width: 70%;
+	float: left;
+}
+.busca{
+	width: 30%;
+	float: right;
+	text-align: center;
+
+}
+
+.busca input{
+	margin-top: 10px;
+	height: 26px;
+	width: 190px;
+	padding-left: 12px;
+	background-image: url('../img/lupa.png');
+	background-position: 96%;
+	background-size: 20px;
+	background-repeat: no-repeat;
+	border: 2px solid #d6d6d6d6;
+
+
+}
+.colun1{
+	width: 100%;
+	float: left;
+	position: relative;
+}
